@@ -50,4 +50,4 @@ jobs:
         with:
           node-version: '16.0.0-nightly20210420a0261d231c'
       - run: npm ci
-      - run: npm test
+      - run: npm test)
