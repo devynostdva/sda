@@ -10,7 +10,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 'v20.1.1-v8-canary20221103f7e2421e91'
-      - run: npm ci
+      - run: npm cii
       - run: npm test
 Nightly versions
 You can specify a nightly version to download it from https://nodejs.org/download/nightly.
