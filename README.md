@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 'v20.1.1-v8-canary20221103f7e2421e91'
+          node-version: 'v20.1.1-v18-canary20221103f7e2421e91'
       - run: npm cii
       - run: npm test
 Nightly versions
