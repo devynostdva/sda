@@ -1,6 +1,6 @@
 # sda
 sda
-Install the exact v10 canary version
+Install the exact v18 canary version
 jobs:
   build:
     runs-on: ubuntu-latest
