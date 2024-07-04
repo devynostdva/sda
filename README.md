@@ -19,7 +19,7 @@ Install the nightly build for a major version
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Node sample
+    name: Node samplle
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
