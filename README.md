@@ -1,6 +1,6 @@
 # sda
 sda
-Install the exact v19 canary version
+Install the exact v29 canary version
 jobs:
   build:
     runs-on: ubuntu-latest
