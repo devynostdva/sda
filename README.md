@@ -1,6 +1,6 @@
 # sda
 sda
-Install the exact v30 canary version
+Install the exact v31 canary version
 jobs:
   build:
     runs-on: ubuntu-latest
